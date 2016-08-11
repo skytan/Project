@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-11-24T16:03:07Z</time>
+  </metadata>
+
+  <wpt lat="51.8319500000" lon="202.0651000000">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>034</name>
+	<cmt>24-NOV-14 07:46 </cmt>
+	<desc>24-NOV-14 07:46 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8318500000" lon="202.0640500000">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>035</name>
+	<cmt>24-NOV-14 07:47 </cmt>
+	<desc>24-NOV-14 07:47 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8323833333" lon="202.0634166667">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>036</name>
+	<cmt>24-NOV-14 07:47 </cmt>
+	<desc>24-NOV-14 07:47 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8332500000" lon="202.0634166667">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>037</name>
+	<cmt>24-NOV-14 07:47 </cmt>
+	<desc>24-NOV-14 07:47 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8341166667" lon="202.0634166667">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>038</name>
+	<cmt>24-NOV-14 07:47 </cmt>
+	<desc>24-NOV-14 07:47 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8349666667" lon="202.0634166667">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>039</name>
+	<cmt>24-NOV-14 07:47 </cmt>
+	<desc>24-NOV-14 07:47 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8354000000" lon="202.0643666667">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>040</name>
+	<cmt>24-NOV-14 07:47 </cmt>
+	<desc>24-NOV-14 07:47 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8354000000" lon="202.0653166667">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>041</name>
+	<cmt>24-NOV-14 07:47 </cmt>
+	<desc>24-NOV-14 07:47 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8354000000" lon="202.0674333333">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>042</name>
+	<cmt>24-NOV-14 07:47 </cmt>
+	<desc>24-NOV-14 07:47 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8337833333" lon="202.0684833333">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>043</name>
+	<cmt>24-NOV-14 07:48 </cmt>
+	<desc>24-NOV-14 07:48 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8320666667" lon="202.0684833333">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>044</name>
+	<cmt>24-NOV-14 07:48 </cmt>
+	<desc>24-NOV-14 07:48 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="51.8315166667" lon="202.0665833333">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>045</name>
+	<cmt>24-NOV-14 07:48 </cmt>
+	<desc>24-NOV-14 07:48 </desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="0.0000000000" lon="0.0000000000">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>CURSOR</name>
+	<cmt>SYS.WP(NO ENTRY)</cmt>
+	<desc>SYS.WP(NO ENTRY)</desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="0.0000000000" lon="0.0000000000">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>MOB</name>
+	<cmt>SYS.WP(NO ENTRY)</cmt>
+	<desc>SYS.WP(NO ENTRY)</desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <wpt lat="0.0000000000" lon="0.0000000000">
+	<time>2014-11-24T16:03:07Z</time>
+	<name>START</name>
+	<cmt>SYS.WP(NO ENTRY)</cmt>
+	<desc>SYS.WP(NO ENTRY)</desc>
+	<sym>Square, Blue</sym>
+	<type>user</type>
+	<extensions>
+	  <gpxx:WaypointExtension>
+	    <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	  </gpxx:WaypointExtension>
+	  <ctx:CreationTimeExtension xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+	    <ctx:CreationTime>2014-11-24T16:03:07Z</ctx:CreationTime>
+	  </ctx:CreationTimeExtension>
+	</extensions>
+  </wpt>
+
+  <rte>
+	<name>01</name>
+	<extensions>
+	  <gpxx:RouteExtension>
+	    <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+	    <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+	  </gpxx:RouteExtension>
+	</extensions>
+	<rtept lat="51.8319500000" lon="202.0651000000">
+	  <time>2014-11-24T16:03:07Z</time>
+	  <name>034</name>
+	  <cmt>24-NOV-14 07:46 </cmt>
+	  <desc>24-NOV-14 07:46 </desc>
+	  <sym>Square, Blue</sym>
+	  <extensions>
+	    <trp:ViaPoint>
+	      <trp:CalculationMode>Direct</trp:CalculationMode>
+	    </trp:ViaPoint>
+	    <gpxx:RoutePointExtension>
+	      <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+	    </gpxx:RoutePointExtension>
+	  </extensions>
+	</rtept>
+	<rtept lat="51.8318500000" lon="202.0640500000">
+	  <time>2014-11-24T16:03:07Z</time>
+	  <name>035</name>
+	  <cmt>24-NOV-14 07:47 </cmt>
+	  <desc>24-NOV-14 07:47 </desc>
+	  <sym>Square, Blue</sym>
+	  <extensions>
+	    <trp:ViaPoint>
+	      <trp:CalculationMode>Direct</trp:CalculationMode>
+	    </trp:ViaPoint>
+	    <gpxx:RoutePointExtension>
+	      <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+	    </gpxx:RoutePointExtension>
+	  </extensions>
+	</rtept>
+	<rtept lat="51.8323833333" lon="202.0634166667">
+	  <time>2014-11-24T16:03:07Z</time>
+	  <name>036</name>
+	  <cmt>24-NOV-14 07:47 </cmt>
+	  <desc>24-NOV-14 07:47 </desc>
+	  <sym>Square, Blue</sym>
+	  <extensions>
+	    <trp:ViaPoint>
+	      <trp:CalculationMode>Direct</trp:CalculationMode>
+	    </trp:ViaPoint>
+	    <gpxx:RoutePointExtension>
+	      <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+	    </gpxx:RoutePointExtension>
+	  </extensions>
+	</rtept>
+	<rtept lat="51.8332500000" lon="202.0634166667">
+	  <time>2014-11-24T16:03:07Z</time>
+	  <name>037</name>
+	  <cmt>24-NOV-14 07:47 </cmt>
+	  <desc>24-NOV-14 07:47 </desc>
+	  <sym>Square, Blue</sym>
+	  <extensions>
+	    <trp:ViaPoint>
+	      <trp:CalculationMode>Direct</trp:CalculationMode>
+	    </trp:ViaPoint>
+	    <gpxx:RoutePointExtension>
+	      <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+	    </gpxx:RoutePointExtension>
+	  </extensions>
+	</rtept>
+	<rtept lat="51.8341166667" lon="202.0634166667">
+	  <time>2014-11-24T16:03:07Z</time>
+	  <name>038</name>
+	  <cmt>24-NOV-14 07:47 </cmt>
+	  <desc>24-NOV-14 07:47 </desc>
+	  <sym>Square, Blue</sym>
+	  <extensions>
+	    <trp:ViaPoint>
+	      <trp:CalculationMode>Direct</trp:CalculationMode>
+	    </trp:ViaPoint>
+	    <gpxx:RoutePointExtension>
+	      <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+	    </gpxx:RoutePointExtension>
+	  </extensions>
+	</rtept>
+	<rtept lat="51.8349666667" lon="202.0634166667">
+	  <time>2014-11-24T16:03:07Z</time>
+	  <name>039</name>
+	  <cmt>24-NOV-14 07:47 </cmt>
+	  <desc>24-NOV-14 07:47 </desc>
+	  <sym>Square, Blue</sym>
+	  <extensions>
+	    <trp:ViaPoint>
+	      <trp:CalculationMode>Direct</trp:CalculationMode>
+	    </trp:ViaPoint>
+	    <gpxx:RoutePointExtension>
+	      <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+	    </gpxx:RoutePointExtension>
+	  </extensions>
+	</rtept>
+  </rte>
+
+</gpx>
